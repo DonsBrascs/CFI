@@ -1,0 +1,13 @@
+﻿Category;Statement;MeasureType;MeasureName
+Revenue;Income Statement;1;Current_Amount
+Cost of Sales;Income Statement;1;Current_Amount
+Gross Profit;Income Statement;2;Subtotal
+Gross Profit %;Income Statement;3;Per_Of_Revenue
+Operating Expenses;Income Statement;1;Current_Amount
+EBIT;Income Statement;2;Subtotal
+EBIT %;Income Statement;3;Per_Of_Revenue
+Interest Expenses;Income Statement;1;Current_Amount
+EBT;Income Statement;2;Subtotal
+Income Tax Expenses;Income Statement;1;Current_Amount
+Net Income;Income Statement;2;Subtotal
+Net Income %;Income Statement;3;Per_Of_Revenue
